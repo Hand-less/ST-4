@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qA+j5ylrFj8n6/st4weUuUa9zUfiHdGKlCi3mWpnGwrUbXAQ9b3wKzTW+B9PokrWD24DRT112Sr0RB8Yv19qCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\salae\\Desktop\\Програмирование\\C\\Shtanuk\\ST-4\\BugPro\\BugPro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salae\\.nuget\\packages\\stateless\\5.15.0\\stateless.5.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
