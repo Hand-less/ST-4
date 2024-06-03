@@ -37,11 +37,11 @@ namespace BugTests
         }
 
         [TestMethod]
-        public void TestReassignFromClosed()
+        public void TestNothingFromClosed()
         {
             var bug = new Bug(Bug.State.Closed);
             bug.Assign();
-            Assert.AreEqual(Bug.State.Assigned, bug.getState());
+            Assert.AreEqual(Bug.State.Closed, bug.getState());
         }
 
         [TestMethod]
